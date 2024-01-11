@@ -34,6 +34,7 @@ Input
 For input source i use a Editorial custom question and answer type.
 
 Output
+
 ![image](https://github.com/leekarande29/Restoran/assets/54453317/d3755f2b-1818-4aed-ae46-aeac93313698)
 ![image](https://github.com/leekarande29/Restoran/assets/54453317/dfc152b6-e93f-421d-9ff9-03140a6d3f23)
 ![image](https://github.com/leekarande29/Restoran/assets/54453317/add190be-0d6c-4440-b51c-e3f1e00e5787)
@@ -100,42 +101,49 @@ When to use the LUIS?
 If you would like to design the application which needs to extract the information from the user’s questions and further process their intents, then use the LUIS.
 
 Process
+
 ![image](https://github.com/leekarande29/Restoran/assets/54453317/acbe2231-c630-4f20-a845-e0af28ec160d)
 
 
 Task 1
 
 Create a Resource Group on Azure
+
 ![image](https://github.com/leekarande29/Restoran/assets/54453317/e86f9656-4e81-4486-a49a-468c8ce1f65e)
 
 
 Task2
 
 Create a Language Service on Azure
+
 ![image](https://github.com/leekarande29/Restoran/assets/54453317/a3448714-3947-4900-b540-af5b796909f0)
 
 
 Task3
 
 Create a Knowledge Base on Azure
+
 ![image](https://github.com/leekarande29/Restoran/assets/54453317/b3016dd5-b9a1-4276-a067-11140df235de)
 
 
 Task4
 
 Create an App Service on Azure
+
 ![image](https://github.com/leekarande29/Restoran/assets/54453317/70282ecd-94da-4427-bd08-246232c2d403)
 
 
 Task5
 
 Create a Web App Bot on Azure
+
 ![image](https://github.com/leekarande29/Restoran/assets/54453317/7b3fd136-4c7c-4aca-8f41-ce02bf202c05)
 
 
 Task6
 
 Testing my Bot on Azure
+
 ![image](https://github.com/leekarande29/Restoran/assets/54453317/92aa0e68-c61f-4e11-98ce-4b07c462ed81)
 
 
