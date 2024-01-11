@@ -171,7 +171,7 @@ Technologies / Tools Used
 URLs
 Drive video URL: 
 
-PDF File With ScreenShoots and explanation about project:
+PDF File With ScreenShoots and explanation about project: https://drive.google.com/file/d/1UHcyuAY69bG5xlvqVL_Q5bsffIUxcAkR/view?usp=sharing
 
 working project URL: 
 
