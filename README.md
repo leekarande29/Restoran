@@ -173,7 +173,7 @@ Drive video URL:
 
 PDF File With ScreenShoots and explanation about project: https://drive.google.com/file/d/1UHcyuAY69bG5xlvqVL_Q5bsffIUxcAkR/view?usp=sharing
 
-working project URL: 
+working project URL: https://rathodsakshi03.github.io/Restoran/
 
 Azure Account ID: sahilrathod2407@gmail.com
 
