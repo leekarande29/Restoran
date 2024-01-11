@@ -52,10 +52,12 @@ Microsoft Azure Bot Framework Architecture(Resource visualizer)
 
 
 Microsoft Azure QnA Maker Development Cycle
+
 ![image](https://github.com/leekarande29/Restoran/assets/54453317/097493eb-2b7b-495c-9817-42cf97ba8fff)
 
 
 Life Cycle of a Conversational Bot
+
 ![image](https://github.com/leekarande29/Restoran/assets/54453317/d24da468-e7fa-49e4-8157-6d4a6fbcb690)
 
 
